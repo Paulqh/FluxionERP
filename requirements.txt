@@ -1,0 +1,6 @@
+django==4.2
+Pillow
+psycopg2==2.9.10
+django-admin-tailwind
+setuptools
+python-decouple
